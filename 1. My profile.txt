@@ -1,0 +1,54 @@
+1. My profile
+Raise request
+Login 
+Account Manager subscription
+Team subscription
+Accounts
+Contacts.
+User management
+
+***************************
+
+Preview
+Report
+Team onboarding
+
+Getting mail after taking essential plan via invoice.
+Getting mail after adding organisation via web app.
+
+For Essential and enterprise wallet will not be visible.
+
+Manage user.
+ADD user.
+If Bu enabled from Jarvis then BU will be visible.
+
+
+
+Login
+Generate/Forgot Password
+User profile 
+User management 
+Team Subscription
+Contact
+Accounts
+Newsletter Subscription
+Account manager Subscription
+
+Total Bug- 101
+Done- 25
+Open- 13
+Reopen- 7
+Not a Bug- 6
+In Discussion- 6
+Duplicate- 1
+
+Archive, Newsletter Subscription, Settings, Date window
+
+
+Precondition,  Test Scenario ID, Test Case ID, Test Case, Test Type and Expected Result
+
+Address in Invoice
+Split of the total amount SKU price and VAT.
+
+
+Narad portal : Ecologist will mark the habitats in form of the shape file 
